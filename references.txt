@@ -12,6 +12,11 @@ http://web.eecs.umich.edu/~justincj/teaching/eecs498/schedule.html
 
 
 
+**********          pytorch:           **********
+
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+https://pytorch.org/tutorials/beginner/examples_nn/dynamic_net.html#sphx-glr-beginner-examples-nn-dynamic-net-py
+
 
 !!!!!  http://neuralnetworksanddeeplearning.com/chap2.html - backpropagation for FC neural networks
 
@@ -58,12 +63,6 @@ LSTM:
 https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
 
 https://colah.github.io/posts/2015-08-Understanding-LSTMs/
-
-
-**********          pytorch:           **********
-
-https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
-https://pytorch.org/tutorials/beginner/examples_nn/dynamic_net.html#sphx-glr-beginner-examples-nn-dynamic-net-py
 
 
 **********          RNN's with attention           **********
