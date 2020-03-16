@@ -140,10 +140,14 @@ https://openai.com/blog/spinning-up-in-deep-rl/
 https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
 
 
-**********          TODO:          **********
+**********        possible coursework:        **********
 
-rnn_lstm_attention_captioning_completed.ipynb
+reinforcement learning semantic segmentation
 
+https://www.google.com/search?newwindow=1&ei=-YhsXseYL8-i6QTOlIPYBw&q=reinforcement+learning+semantic+segmentation&oq=reinforcement+learning+semantic+segmentation&gs_l=psy-ab.3..0i19j0i22i30i19.118029.118029..118334...0.2..0.124.124.0j1......0....1..gws-wiz.......0i71.ZjliNgGTrvA&ved=0ahUKEwiH-dTouZnoAhVPUZoKHU7KAHsQ4dUDCAs&uact=5
 
+https://arxiv.org/abs/1804.04603
+
+https://arxiv.org/pdf/1804.04603.pdf
 
 
