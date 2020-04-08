@@ -151,3 +151,17 @@ https://arxiv.org/abs/1804.04603
 https://arxiv.org/pdf/1804.04603.pdf
 
 
+Ideas for couserwork:
+
+https://www.groundai.com/project/stroke-based-character-recognition-with-deep-reinforcement-learning/1
+
+http://cs229.stanford.edu/proj2017/final-reports/5241109.pdf
+
+reinforcement learning pacman
+
+
+************            Recurrent attention models            ************
+
+https://github.com/kevinzakka/recurrent-visual-attention 
+and so on...
+
